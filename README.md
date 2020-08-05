@@ -1,4 +1,5 @@
 # WGS_QC
+Platform: c3ddb
 1. Unzip raw data from the Broad
 2. Merge fastq files from different lanes (for NOVASEQ data)
 3. Rename files using Plate-ID+Well-ID
